@@ -43,7 +43,7 @@ if(isset($_POST['submit'])){
 <fieldset>
 
 <!-- Form Name -->
-<legend>Store Data</legend>
+<legend>Store data</legend>
 
 <!-- Text input-->
 <div class="form-group">
